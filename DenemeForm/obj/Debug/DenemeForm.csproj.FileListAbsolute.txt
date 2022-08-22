@@ -1,0 +1,65 @@
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\bin\Debug\DenemeForm.exe.config
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\bin\Debug\DenemeForm.exe
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\bin\Debug\DenemeForm.pdb
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.AssemblyReference.cache
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.Form1.resources
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.Properties.Resources.resources
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.GenerateResource.cache
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.CoreCompileInputs.cache
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.exe
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.pdb
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.FrmSifreunuttum.resources
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.FrmYeni.resources
+C:\Users\durdu\Desktop\Nesne tabanlı\repos\DenemeForm\DenemeForm\obj\Debug\DenemeForm.AboutBox1.resources
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DenemeForm.exe.config
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DenemeForm.exe
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DenemeForm.pdb
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.AssemblyReference.cache
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.AboutBox1.resources
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.Form1.resources
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.FrmSifreunuttum.resources
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.FrmYeni.resources
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.Properties.Resources.resources
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.GenerateResource.cache
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.CoreCompileInputs.cache
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.exe
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.pdb
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.csproj.CopyComplete
+C:\Users\durdu\Desktop\Todoappim\DenemeForm\DenemeForm\obj\Debug\DenemeForm.exe.licenses
